@@ -1,0 +1,1020 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		084CCE12A1D9BC5C1A6595EFB15EF7A6 /* 3003.png in Sources */ = {isa = PBXBuildFile; fileRef = D4C6B8CAD6C07067448B856D3024F4E7 /* 3003.png */; };
+		0CF09FB70705F49A9C5E85B47E863C37 /* 3045.png in Sources */ = {isa = PBXBuildFile; fileRef = E80E236A99BCC61E83A9C6BD8949D5DC /* 3045.png */; };
+		10E6A710AFDC157640016370E111D5B4 /* 3057.png in Sources */ = {isa = PBXBuildFile; fileRef = 3F97E7D488592598FC7682D5E65FEA73 /* 3057.png */; };
+		1497B8AB260066A9AF8D60F622807096 /* podOnevlin-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 230A1C9494EDFE45C9C9B98BF7E5A855 /* podOnevlin-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		150E4BDBBFE07FE8D97766B97E0ECD7D /* 3033.png in Sources */ = {isa = PBXBuildFile; fileRef = 9418FDF9DBA0421B56195AB99EFA150A /* 3033.png */; };
+		16114BBB399F7BA8BCFD223E1C3B7EE2 /* 3038.png in Sources */ = {isa = PBXBuildFile; fileRef = C634F661B06285B474B79A51C780E7F9 /* 3038.png */; };
+		185FBA47963E72B7BFD2CC5E543A566D /* Info.plist in Sources */ = {isa = PBXBuildFile; fileRef = 77C7C62F2C744251738286823A3ACD7F /* Info.plist */; };
+		1A5179FDB291BD6BB07A0A4BC15654EB /* 3052.png in Sources */ = {isa = PBXBuildFile; fileRef = 65CE690FFB23DF9A660AF92B208FC7E7 /* 3052.png */; };
+		2133701796FEEC5A5E4E6A8E11E0E9C4 /* 3034.png in Sources */ = {isa = PBXBuildFile; fileRef = 086B7C68796E4905AA2E83CDC3F59FDA /* 3034.png */; };
+		2525F5EAEA96F2EB1B20D7764CA9B6E2 /* 3055.png in Sources */ = {isa = PBXBuildFile; fileRef = 57ECDE86FCD31EF1DEF882A1D3E2D5F7 /* 3055.png */; };
+		25FCEE7819D5F3FC1BD8B43D798BDC16 /* 3043.png in Sources */ = {isa = PBXBuildFile; fileRef = 76C446CC956A7878904BE79A8417828B /* 3043.png */; };
+		2983EC22EB446A4924EADA48566D49D7 /* 1061.png in Sources */ = {isa = PBXBuildFile; fileRef = E49507AC959DB75F3C44DAB734EEF797 /* 1061.png */; };
+		31F148780D53B266515C46195B16E981 /* 3059.png in Sources */ = {isa = PBXBuildFile; fileRef = C194E85F664627409DA8286FFFCBA10D /* 3059.png */; };
+		335AE388A0F87906B9825110EC68258D /* 3002.png in Sources */ = {isa = PBXBuildFile; fileRef = D352AC16B3578B8A8009B6229B8AC910 /* 3002.png */; };
+		33C5B9EAFD67010FCB700A124A17F77B /* 3026.png in Sources */ = {isa = PBXBuildFile; fileRef = F87CF98996FBC3146BFE4184392C3B15 /* 3026.png */; };
+		36F427F3E408EA4C3CA4F84B94568768 /* 3111.png in Sources */ = {isa = PBXBuildFile; fileRef = DB4E4B41E5070BC6B4EA66FCD0D34A79 /* 3111.png */; };
+		37162B1D4F61A82AF927917F408A0367 /* 3053.png in Sources */ = {isa = PBXBuildFile; fileRef = 713C01B90F440FFE05875F5950888D12 /* 3053.png */; };
+		3AF0A0ABEF742CCDDCCE6E8390BA966F /* Pods-podOnevlin_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 6E37E57B125EEFF95DDE2C85E91CE1F0 /* Pods-podOnevlin_Tests-dummy.m */; };
+		3B657E37FE465887519623BB2AEEDC7D /* BaoFooPayController.h in Headers */ = {isa = PBXBuildFile; fileRef = 40DB5CF12592DFC7E53536380D509957 /* BaoFooPayController.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		40473D61C8EADA445289CA7BE5339391 /* 3022.png in Sources */ = {isa = PBXBuildFile; fileRef = 7727187F14A8A7A93934615CEC0F66CB /* 3022.png */; };
+		4C8360DD45C667792F80931404D3CF87 /* 3006.png in Sources */ = {isa = PBXBuildFile; fileRef = D83106F68EA82B41524ABA0011F26C40 /* 3006.png */; };
+		4CD9294B6BACBBEC56F2F78D9730A63C /* BaoFooPay.h in Headers */ = {isa = PBXBuildFile; fileRef = E5BDBEDCEE3360ED1C5F055D51C5FE4C /* BaoFooPay.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		58F6800D056E70BCAC015CF4FFA3FFEB /* 3044.png in Sources */ = {isa = PBXBuildFile; fileRef = 30D3F5D8464DBE6E2AEB590DA6E4456C /* 3044.png */; };
+		5D79329506247DF7C66613454272B101 /* podOnevlin-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 25B5DF002A3D7C534A24FA7AAFD6562A /* podOnevlin-dummy.m */; };
+		62C5AA6C0CB8D95FA804803A424B9192 /* 3100.png in Sources */ = {isa = PBXBuildFile; fileRef = 5A6456DCF220D1E27AC23272FE6415AA /* 3100.png */; };
+		667384A96379E3C410A3E4BEF565CC63 /* 3050.png in Sources */ = {isa = PBXBuildFile; fileRef = B6D5E37E68230C43F6A5829B02002951 /* 3050.png */; };
+		6C6B7BE617543D1D64A495B420C3C9EF /* 3049.png in Sources */ = {isa = PBXBuildFile; fileRef = 3888BCF66D6549097C2115F2F597FB35 /* 3049.png */; };
+		727019A3C40934EE5C6E8744EEB2218D /* CodeResources in Sources */ = {isa = PBXBuildFile; fileRef = 74AEF5F39FF7FCABECEB360D69D8976C /* CodeResources */; };
+		73FD991436E844B1912BB6B3D19102EF /* BaoFooPay in Sources */ = {isa = PBXBuildFile; fileRef = DCA4391895CD6F459316F650A254A3B7 /* BaoFooPay */; };
+		7B6A1C709CEC78BC38DA35FC07708711 /* 3039.png in Sources */ = {isa = PBXBuildFile; fileRef = 60731112ED25E80ED5BF3A8ED746E71A /* 3039.png */; };
+		7C717BEF68D6B04D66EA741FE5CB82CD /* 3032.png in Sources */ = {isa = PBXBuildFile; fileRef = 00A74F33BF8F4418138A5D5346F82764 /* 3032.png */; };
+		7D1F301E0D7A79E1B1E047CDC6B05D25 /* 3047.png in Sources */ = {isa = PBXBuildFile; fileRef = 3AF9C91C92BBD18AEF2370CF1ABDE419 /* 3047.png */; };
+		7D44B53FFC492897A856ADBDC6844EE1 /* 3102.png in Sources */ = {isa = PBXBuildFile; fileRef = 02F379540136A1DD3D505E10CEDB092E /* 3102.png */; };
+		7FE13D4F0D369A308013E2EBEFA1881D /* CodeSignature in Sources */ = {isa = PBXBuildFile; fileRef = 53EE5A85CF30DC16CBC61E8A7721ECA4 /* CodeSignature */; };
+		82FD19FDED70DD499FB73FE35886DB0E /* 3054.png in Sources */ = {isa = PBXBuildFile; fileRef = 2D246625F3B0BC007548EA484BBA7BCD /* 3054.png */; };
+		83209A0C0CF789C7F334B0BEE295FA4B /* 3035.png in Sources */ = {isa = PBXBuildFile; fileRef = 58D0D95EC8468F3D50AFEB4ACF080685 /* 3035.png */; };
+		846A8DAEDE6190A4C34CC5373E0539BA /* 3046.png in Sources */ = {isa = PBXBuildFile; fileRef = 8A359F6DADDC2901C296EB24174149A0 /* 3046.png */; };
+		8599055A4C41A043D1DC441C0A347E9A /* 3005.png in Sources */ = {isa = PBXBuildFile; fileRef = 2BD589A04BFCAEFE97631E00390DB363 /* 3005.png */; };
+		86CCE637CE38214CFD9E165EC8B8896E /* 3040.png in Sources */ = {isa = PBXBuildFile; fileRef = 597C87ED4DB838FF0A0082CABE47ED11 /* 3040.png */; };
+		8AB661897B1C7D781963E1408023A696 /* module.modulemap in Sources */ = {isa = PBXBuildFile; fileRef = DEF05B4D73A2CBBB50950ED164783F50 /* module.modulemap */; };
+		8AD1D7F859E961E7DD2D84CFFAAC725E /* CodeDirectory in Sources */ = {isa = PBXBuildFile; fileRef = F2C73C62510A3B53D9203AEFB0460E44 /* CodeDirectory */; };
+		8BFDC2C1B71C21FCC535FEAE7AD1B0C4 /* 3056.png in Sources */ = {isa = PBXBuildFile; fileRef = 946D476E74F070470102319350DCD7E6 /* 3056.png */; };
+		8C13CDF571E5034AFC0D5B899EA53D00 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */; };
+		90AD3E103FA2FE34A16D730AA6D6617C /* 3008.png in Sources */ = {isa = PBXBuildFile; fileRef = 9A5D0722FED8FE48334F8120349E4942 /* 3008.png */; };
+		90F1D13A7E7BC05F55359FBEE91183D5 /* 3048.png in Sources */ = {isa = PBXBuildFile; fileRef = 8B8F918934A2C354AF1F811090AD13BD /* 3048.png */; };
+		94D17065D01CE0B9D38108311FD2E625 /* Root.plist in Sources */ = {isa = PBXBuildFile; fileRef = F99BEBBEFDA11A885E287360B6D02496 /* Root.plist */; };
+		957660645AF26D4E039E083CA1FC04C8 /* 3020.png in Sources */ = {isa = PBXBuildFile; fileRef = DCD050029BE92EA13AD255E6EF83706F /* 3020.png */; };
+		9B22C4B798CA5EC35BA78A3C15E8D9A2 /* 3004.png in Sources */ = {isa = PBXBuildFile; fileRef = 3A7088E66134658DC94896D902C4A2EE /* 3004.png */; };
+		9E9499003CC0AA01204C56301AD97642 /* Pods-podOnevlin_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = C9BC74E1D5C7EA964F111FC91765953E /* Pods-podOnevlin_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		A6EB0418E13FBE3A8EFE3E30FF1D48E9 /* bankList.plist in Sources */ = {isa = PBXBuildFile; fileRef = 6D6B8A8C4691B7B4D3CBE2EFDF154A7D /* bankList.plist */; };
+		A8EEF585C39CD36AEEBE6FDCD6F6678E /* 3037.png in Sources */ = {isa = PBXBuildFile; fileRef = 7A3776FF4389235F27AAA3E9FC0CB8A0 /* 3037.png */; };
+		A93131FC5DD461CF1B8A18B033075F60 /* 1032.png in Sources */ = {isa = PBXBuildFile; fileRef = 920353FFF3936AE8245EB4137F1938BE /* 1032.png */; };
+		B0467951BC68BEBB50F29539D1323AAC /* 3063.png in Sources */ = {isa = PBXBuildFile; fileRef = A71ECB25664D436A5EFA172021B9FD0A /* 3063.png */; };
+		B5E7B540D9961BEE8AD85469C22A09E4 /* 3101.png in Sources */ = {isa = PBXBuildFile; fileRef = 431BE7745495F34CBBF2CA8402A06294 /* 3101.png */; };
+		B69D7BA58C6CB03AD6E3B5B176C757A5 /* 3104.png in Sources */ = {isa = PBXBuildFile; fileRef = 0877B2BD56604F052877309FF6122079 /* 3104.png */; };
+		BC26F0A264B5CCD6DDAAC26DDE2AA5EE /* Pods-podOnevlin_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 9BFF0CD92CABE67B1AFE00745115974E /* Pods-podOnevlin_Example-dummy.m */; };
+		BFBADB7126668EB8232CC9A6B5244CFD /* BFProgressHUD.h in Headers */ = {isa = PBXBuildFile; fileRef = 4B78D22BA824196FA3B11994413F59C5 /* BFProgressHUD.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		C9039C53DD5A55891BA07723C0FF2836 /* Pods-podOnevlin_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = E4C220FB0EE5A045C6C364234060CF56 /* Pods-podOnevlin_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CDBAC5BFC2DEF112A0C9644E246FD88B /* 3036.png in Sources */ = {isa = PBXBuildFile; fileRef = BF3286409F374327A84443F487D93689 /* 3036.png */; };
+		CED37834643DFAE5EE6CE9CA6C06B756 /* 3009.png in Sources */ = {isa = PBXBuildFile; fileRef = FD70F5045B4C820F7F286EADBDC7682C /* 3009.png */; };
+		D1067E309F11C2F5420A1A60698A3A43 /* Root.strings in Sources */ = {isa = PBXBuildFile; fileRef = DC196F0E0C1C42C2FD1BDF9D3C20D7F3 /* Root.strings */; };
+		D6CC7C5F1CB97FF6522914B74BD70FFC /* 3105.png in Sources */ = {isa = PBXBuildFile; fileRef = 253EF99D9F4BDEADEB31D12FF3425DEE /* 3105.png */; };
+		D76750DDD660AB28EF52294FD2BD911B /* 3051.png in Sources */ = {isa = PBXBuildFile; fileRef = 83DAA9F5EA28858ABD963EC325823A91 /* 3051.png */; };
+		DF8149299DE6C74FD5DA72594849800A /* 3042.png in Sources */ = {isa = PBXBuildFile; fileRef = 83F339B07B01BAE04252FACDF1669EDA /* 3042.png */; };
+		E0FF1AAAFF842E9383EE79F10BD05C6F /* 9004.png in Sources */ = {isa = PBXBuildFile; fileRef = 873356943E475B73AC5DDF1916DF3A4A /* 9004.png */; };
+		E4D848B339CCD58847B764C7D5F785BC /* CodeRequirements in Sources */ = {isa = PBXBuildFile; fileRef = 48F28C6302AE6DCB571D78BA5454C2D8 /* CodeRequirements */; };
+		E7855BF98D2426C103275B0C039AE685 /* 9026.png in Sources */ = {isa = PBXBuildFile; fileRef = 3ACFDD5A80F2B417518E2D6F7E19D0E7 /* 9026.png */; };
+		ECC9F1ECFA4D34987E4CB0859027AF77 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */; };
+		EEB392931B21F97B93CA7E404A6414BA /* 3041.png in Sources */ = {isa = PBXBuildFile; fileRef = 9DD099322A61B788DE6DD67A38B464B5 /* 3041.png */; };
+		F30996F98DCF3BE86441E1AEAD3F0B7B /* 3115.png in Sources */ = {isa = PBXBuildFile; fileRef = E63D841CDA78CE56524B1E675D4153D3 /* 3115.png */; };
+		F3EA9AC7375582800BA88B7DA050DFFA /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */; };
+		F70B4F7787C075825E8D974209C44087 /* 3058.png in Sources */ = {isa = PBXBuildFile; fileRef = 4249D6A0DB1FE0D25D91B76DD8E00019 /* 3058.png */; };
+		FF8704877EBA3F371FEACAEC1BC8759B /* 3001.png in Sources */ = {isa = PBXBuildFile; fileRef = 477DEB99674F58535AE0A01C9A6516DB /* 3001.png */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		5706A7C2FFE2BB2407DD9E7A3E454DA9 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = A22112E7A5736325B6AAC1CA71617445;
+			remoteInfo = podOnevlin;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		00A74F33BF8F4418138A5D5346F82764 /* 3032.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = 3032.png; sourceTree = "<group>"; };
+		02F379540136A1DD3D505E10CEDB092E /* 3102.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = 3102.png; sourceTree = "<group>"; };
+		03ECFAA306958638B8B7BF34EC766CB3 /* Pods-podOnevlin_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-podOnevlin_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
+		057EEED362BEFD2745B3FE5208E2DE30 /* Pods-podOnevlin_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-podOnevlin_Tests.modulemap"; sourceTree = "<group>"; };
+		086B7C68796E4905AA2E83CDC3F59FDA /* 3034.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = 3034.png; sourceTree = "<group>"; };
+		0877B2BD56604F052877309FF6122079 /* 3104.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = 3104.png; sourceTree = "<group>"; };
+		0B7CF7ACDF02EB17D5B829B2E630043E /* podOnevlin-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "podOnevlin-prefix.pch"; sourceTree = "<group>"; };
+		1A4D5ADDD1F7951232158607B2259436 /* podOnevlin.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = podOnevlin.modulemap; sourceTree = "<group>"; };
+		230A1C9494EDFE45C9C9B98BF7E5A855 /* podOnevlin-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "podOnevlin-umbrella.h"; sourceTree = "<group>"; };
+		253EF99D9F4BDEADEB31D12FF3425DEE /* 3105.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = 3105.png; sourceTree = "<group>"; };
+		25B5DF002A3D7C534A24FA7AAFD6562A /* podOnevlin-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "podOnevlin-dummy.m"; sourceTree = "<group>"; };
+		2BD589A04BFCAEFE97631E00390DB363 /* 3005.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = 3005.png; sourceTree = "<group>"; };
+		2D246625F3B0BC007548EA484BBA7BCD /* 3054.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = 3054.png; sourceTree = "<group>"; };
+		30D3F5D8464DBE6E2AEB590DA6E4456C /* 3044.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = 3044.png; sourceTree = "<group>"; };
+		32F9EB44AFF54B1959B739774F8652F2 /* Pods_podOnevlin_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_podOnevlin_Example.framework; path = "Pods-podOnevlin_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3888BCF66D6549097C2115F2F597FB35 /* 3049.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = 3049.png; sourceTree = "<group>"; };
+		3A7088E66134658DC94896D902C4A2EE /* 3004.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = 3004.png; sourceTree = "<group>"; };
+		3ACFDD5A80F2B417518E2D6F7E19D0E7 /* 9026.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = 9026.png; sourceTree = "<group>"; };
+		3AF9C91C92BBD18AEF2370CF1ABDE419 /* 3047.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = 3047.png; sourceTree = "<group>"; };
+		3F97E7D488592598FC7682D5E65FEA73 /* 3057.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = 3057.png; sourceTree = "<group>"; };
+		40DB5CF12592DFC7E53536380D509957 /* BaoFooPayController.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BaoFooPayController.h; sourceTree = "<group>"; };
+		4249D6A0DB1FE0D25D91B76DD8E00019 /* 3058.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = 3058.png; sourceTree = "<group>"; };
+		431BE7745495F34CBBF2CA8402A06294 /* 3101.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = 3101.png; sourceTree = "<group>"; };
+		466D0119276A110DA0C3A375A856703B /* Pods-podOnevlin_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-podOnevlin_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
+		477DEB99674F58535AE0A01C9A6516DB /* 3001.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = 3001.png; sourceTree = "<group>"; };
+		48F28C6302AE6DCB571D78BA5454C2D8 /* CodeRequirements */ = {isa = PBXFileReference; includeInIndex = 1; path = CodeRequirements; sourceTree = "<group>"; };
+		4B78D22BA824196FA3B11994413F59C5 /* BFProgressHUD.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BFProgressHUD.h; sourceTree = "<group>"; };
+		523815A3482C88B1EE227A9638830ECF /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		53EE5A85CF30DC16CBC61E8A7721ECA4 /* CodeSignature */ = {isa = PBXFileReference; includeInIndex = 1; path = CodeSignature; sourceTree = "<group>"; };
+		544926630CA96BA798843921E0526106 /* Pods-podOnevlin_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-podOnevlin_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
+		57D937C080E2C399F0412B2C75FD444C /* Pods-podOnevlin_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-podOnevlin_Example.release.xcconfig"; sourceTree = "<group>"; };
+		57ECDE86FCD31EF1DEF882A1D3E2D5F7 /* 3055.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = 3055.png; sourceTree = "<group>"; };
+		57FCA55D5B091561BF3AD21CE59D0EFD /* Pods-podOnevlin_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-podOnevlin_Tests-resources.sh"; sourceTree = "<group>"; };
+		58D0D95EC8468F3D50AFEB4ACF080685 /* 3035.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = 3035.png; sourceTree = "<group>"; };
+		597C87ED4DB838FF0A0082CABE47ED11 /* 3040.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = 3040.png; sourceTree = "<group>"; };
+		5A6456DCF220D1E27AC23272FE6415AA /* 3100.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = 3100.png; sourceTree = "<group>"; };
+		5BD09AB2906B684EBEC92B022714DCC6 /* Pods-podOnevlin_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-podOnevlin_Example-resources.sh"; sourceTree = "<group>"; };
+		60731112ED25E80ED5BF3A8ED746E71A /* 3039.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = 3039.png; sourceTree = "<group>"; };
+		65CE690FFB23DF9A660AF92B208FC7E7 /* 3052.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = 3052.png; sourceTree = "<group>"; };
+		6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
+		6D6B8A8C4691B7B4D3CBE2EFDF154A7D /* bankList.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; name = bankList.plist; path = podOnevlin/Classes/BaofooPay/bankList.plist; sourceTree = "<group>"; };
+		6E37E57B125EEFF95DDE2C85E91CE1F0 /* Pods-podOnevlin_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-podOnevlin_Tests-dummy.m"; sourceTree = "<group>"; };
+		709E048941834B68C5E0FBDF931E7F3C /* Pods-podOnevlin_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-podOnevlin_Example-acknowledgements.plist"; sourceTree = "<group>"; };
+		713C01B90F440FFE05875F5950888D12 /* 3053.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = 3053.png; sourceTree = "<group>"; };
+		74AEF5F39FF7FCABECEB360D69D8976C /* CodeResources */ = {isa = PBXFileReference; includeInIndex = 1; path = CodeResources; sourceTree = "<group>"; };
+		76C446CC956A7878904BE79A8417828B /* 3043.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = 3043.png; sourceTree = "<group>"; };
+		7727187F14A8A7A93934615CEC0F66CB /* 3022.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = 3022.png; sourceTree = "<group>"; };
+		77C7C62F2C744251738286823A3ACD7F /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7A3776FF4389235F27AAA3E9FC0CB8A0 /* 3037.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = 3037.png; sourceTree = "<group>"; };
+		83DAA9F5EA28858ABD963EC325823A91 /* 3051.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = 3051.png; sourceTree = "<group>"; };
+		83F339B07B01BAE04252FACDF1669EDA /* 3042.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = 3042.png; sourceTree = "<group>"; };
+		84DB9B564EB624AD62E80A1E741A063C /* Pods-podOnevlin_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-podOnevlin_Example-frameworks.sh"; sourceTree = "<group>"; };
+		873356943E475B73AC5DDF1916DF3A4A /* 9004.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = 9004.png; sourceTree = "<group>"; };
+		8A359F6DADDC2901C296EB24174149A0 /* 3046.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = 3046.png; sourceTree = "<group>"; };
+		8ABFF875559FDD288BAFA38C8404F0A0 /* Pods_podOnevlin_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_podOnevlin_Tests.framework; path = "Pods-podOnevlin_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		8B8F918934A2C354AF1F811090AD13BD /* 3048.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = 3048.png; sourceTree = "<group>"; };
+		920353FFF3936AE8245EB4137F1938BE /* 1032.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = 1032.png; sourceTree = "<group>"; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9418FDF9DBA0421B56195AB99EFA150A /* 3033.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = 3033.png; sourceTree = "<group>"; };
+		946D476E74F070470102319350DCD7E6 /* 3056.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = 3056.png; sourceTree = "<group>"; };
+		9A5D0722FED8FE48334F8120349E4942 /* 3008.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = 3008.png; sourceTree = "<group>"; };
+		9BFF0CD92CABE67B1AFE00745115974E /* Pods-podOnevlin_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-podOnevlin_Example-dummy.m"; sourceTree = "<group>"; };
+		9DD099322A61B788DE6DD67A38B464B5 /* 3041.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = 3041.png; sourceTree = "<group>"; };
+		A71ECB25664D436A5EFA172021B9FD0A /* 3063.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = 3063.png; sourceTree = "<group>"; };
+		AE1871D674A49B5CB39522E287E1E060 /* Pods-podOnevlin_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-podOnevlin_Tests-frameworks.sh"; sourceTree = "<group>"; };
+		AEDCD556219197C0D90E14F12349592A /* podOnevlin.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = podOnevlin.xcconfig; sourceTree = "<group>"; };
+		B6D5E37E68230C43F6A5829B02002951 /* 3050.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = 3050.png; sourceTree = "<group>"; };
+		BF3286409F374327A84443F487D93689 /* 3036.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = 3036.png; sourceTree = "<group>"; };
+		C194E85F664627409DA8286FFFCBA10D /* 3059.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = 3059.png; sourceTree = "<group>"; };
+		C634F661B06285B474B79A51C780E7F9 /* 3038.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = 3038.png; sourceTree = "<group>"; };
+		C7D7A514DC9BD32DC043E9416CBBFDE9 /* podOnevlin.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = podOnevlin.framework; path = podOnevlin.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		C9BC74E1D5C7EA964F111FC91765953E /* Pods-podOnevlin_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-podOnevlin_Example-umbrella.h"; sourceTree = "<group>"; };
+		D1D1291C25668214C9594AC2A2B69A4B /* Pods-podOnevlin_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-podOnevlin_Example.debug.xcconfig"; sourceTree = "<group>"; };
+		D1E0154995A718321E4963635A5D6482 /* Pods-podOnevlin_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-podOnevlin_Tests.debug.xcconfig"; sourceTree = "<group>"; };
+		D352AC16B3578B8A8009B6229B8AC910 /* 3002.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = 3002.png; sourceTree = "<group>"; };
+		D4C6B8CAD6C07067448B856D3024F4E7 /* 3003.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = 3003.png; sourceTree = "<group>"; };
+		D70AD4341EEAB3641A17806F7CC30501 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D83106F68EA82B41524ABA0011F26C40 /* 3006.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = 3006.png; sourceTree = "<group>"; };
+		DB4E4B41E5070BC6B4EA66FCD0D34A79 /* 3111.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = 3111.png; sourceTree = "<group>"; };
+		DC196F0E0C1C42C2FD1BDF9D3C20D7F3 /* Root.strings */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.strings; name = Root.strings; path = en.lproj/Root.strings; sourceTree = "<group>"; };
+		DCA4391895CD6F459316F650A254A3B7 /* BaoFooPay */ = {isa = PBXFileReference; includeInIndex = 1; path = BaoFooPay; sourceTree = "<group>"; };
+		DCD050029BE92EA13AD255E6EF83706F /* 3020.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = 3020.png; sourceTree = "<group>"; };
+		DEF05B4D73A2CBBB50950ED164783F50 /* module.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = module.modulemap; sourceTree = "<group>"; };
+		E49507AC959DB75F3C44DAB734EEF797 /* 1061.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = 1061.png; sourceTree = "<group>"; };
+		E4C220FB0EE5A045C6C364234060CF56 /* Pods-podOnevlin_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-podOnevlin_Tests-umbrella.h"; sourceTree = "<group>"; };
+		E5BDBEDCEE3360ED1C5F055D51C5FE4C /* BaoFooPay.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BaoFooPay.h; sourceTree = "<group>"; };
+		E63D841CDA78CE56524B1E675D4153D3 /* 3115.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = 3115.png; sourceTree = "<group>"; };
+		E7D5DD19161DAE1928A7DEFDF97C1E15 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E80E236A99BCC61E83A9C6BD8949D5DC /* 3045.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = 3045.png; sourceTree = "<group>"; };
+		F2C73C62510A3B53D9203AEFB0460E44 /* CodeDirectory */ = {isa = PBXFileReference; includeInIndex = 1; path = CodeDirectory; sourceTree = "<group>"; };
+		F39800D7A523A8615EEF461FBADDC61F /* Pods-podOnevlin_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-podOnevlin_Example.modulemap"; sourceTree = "<group>"; };
+		F87CF98996FBC3146BFE4184392C3B15 /* 3026.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = 3026.png; sourceTree = "<group>"; };
+		F87E6D0EA2CF45DC6B7B4714C0A3B6A4 /* Pods-podOnevlin_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-podOnevlin_Tests.release.xcconfig"; sourceTree = "<group>"; };
+		F99BEBBEFDA11A885E287360B6D02496 /* Root.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Root.plist; sourceTree = "<group>"; };
+		FD70F5045B4C820F7F286EADBDC7682C /* 3009.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = 3009.png; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		2870994D3CCD577F3C49980A2C47792C /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8C13CDF571E5034AFC0D5B899EA53D00 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2A3B5A5823F93CFECEB7AF36832B1164 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F3EA9AC7375582800BA88B7DA050DFFA /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		6E30DB5E9D07B540A2299BB2FA54135D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				ECC9F1ECFA4D34987E4CB0859027AF77 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		0BFD3EADED486F75E936C809CB586343 /* bankImage.bundle */ = {
+			isa = PBXGroup;
+			children = (
+				F99BEBBEFDA11A885E287360B6D02496 /* Root.plist */,
+				41CDEC43BF247470FECCF200691B58A8 /* Root.strings */,
+				8BF4D480F1D5D9E12B7D48929EC32061 /* logo */,
+			);
+			name = bankImage.bundle;
+			path = podOnevlin/Classes/BaofooPay/bankImage.bundle;
+			sourceTree = "<group>";
+		};
+		288FDEF3264F83326ED1EF86CC098054 /* BaoFooPay.framework */ = {
+			isa = PBXGroup;
+			children = (
+				DCA4391895CD6F459316F650A254A3B7 /* BaoFooPay */,
+				77C7C62F2C744251738286823A3ACD7F /* Info.plist */,
+				2CC0191903B1D14FE6BD2F24628F4C68 /* _CodeSignature */,
+				66F09161079B7CAB5321D3CABCCECA75 /* Headers */,
+				4520EF455EB0A6B95BF2F284A5CF7C54 /* Modules */,
+			);
+			name = BaoFooPay.framework;
+			path = podOnevlin/Classes/BaofooPay/BaoFooPay.framework;
+			sourceTree = "<group>";
+		};
+		2CC0191903B1D14FE6BD2F24628F4C68 /* _CodeSignature */ = {
+			isa = PBXGroup;
+			children = (
+				F2C73C62510A3B53D9203AEFB0460E44 /* CodeDirectory */,
+				48F28C6302AE6DCB571D78BA5454C2D8 /* CodeRequirements */,
+				74AEF5F39FF7FCABECEB360D69D8976C /* CodeResources */,
+				53EE5A85CF30DC16CBC61E8A7721ECA4 /* CodeSignature */,
+			);
+			name = _CodeSignature;
+			path = _CodeSignature;
+			sourceTree = "<group>";
+		};
+		4520EF455EB0A6B95BF2F284A5CF7C54 /* Modules */ = {
+			isa = PBXGroup;
+			children = (
+				DEF05B4D73A2CBBB50950ED164783F50 /* module.modulemap */,
+			);
+			name = Modules;
+			path = Modules;
+			sourceTree = "<group>";
+		};
+		66F09161079B7CAB5321D3CABCCECA75 /* Headers */ = {
+			isa = PBXGroup;
+			children = (
+				E5BDBEDCEE3360ED1C5F055D51C5FE4C /* BaoFooPay.h */,
+				40DB5CF12592DFC7E53536380D509957 /* BaoFooPayController.h */,
+				4B78D22BA824196FA3B11994413F59C5 /* BFProgressHUD.h */,
+			);
+			name = Headers;
+			path = Headers;
+			sourceTree = "<group>";
+		};
+		7DB346D0F39D3F0E887471402A8071AB = {
+			isa = PBXGroup;
+			children = (
+				93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */,
+				B3BD6D757C1AD218CA9EA782AAC88F37 /* Development Pods */,
+				BC3CA7F9E30CC8F7E2DD044DD34432FC /* Frameworks */,
+				B0394B07EBF93125E7770C794D6DF19A /* Products */,
+				CA7E0F3D918BA17F00C427FBA83A38ED /* Targets Support Files */,
+			);
+			sourceTree = "<group>";
+		};
+		8BF4D480F1D5D9E12B7D48929EC32061 /* logo */ = {
+			isa = PBXGroup;
+			children = (
+				920353FFF3936AE8245EB4137F1938BE /* 1032.png */,
+				E49507AC959DB75F3C44DAB734EEF797 /* 1061.png */,
+				477DEB99674F58535AE0A01C9A6516DB /* 3001.png */,
+				D352AC16B3578B8A8009B6229B8AC910 /* 3002.png */,
+				D4C6B8CAD6C07067448B856D3024F4E7 /* 3003.png */,
+				3A7088E66134658DC94896D902C4A2EE /* 3004.png */,
+				2BD589A04BFCAEFE97631E00390DB363 /* 3005.png */,
+				D83106F68EA82B41524ABA0011F26C40 /* 3006.png */,
+				9A5D0722FED8FE48334F8120349E4942 /* 3008.png */,
+				FD70F5045B4C820F7F286EADBDC7682C /* 3009.png */,
+				DCD050029BE92EA13AD255E6EF83706F /* 3020.png */,
+				7727187F14A8A7A93934615CEC0F66CB /* 3022.png */,
+				F87CF98996FBC3146BFE4184392C3B15 /* 3026.png */,
+				00A74F33BF8F4418138A5D5346F82764 /* 3032.png */,
+				9418FDF9DBA0421B56195AB99EFA150A /* 3033.png */,
+				086B7C68796E4905AA2E83CDC3F59FDA /* 3034.png */,
+				58D0D95EC8468F3D50AFEB4ACF080685 /* 3035.png */,
+				BF3286409F374327A84443F487D93689 /* 3036.png */,
+				7A3776FF4389235F27AAA3E9FC0CB8A0 /* 3037.png */,
+				C634F661B06285B474B79A51C780E7F9 /* 3038.png */,
+				60731112ED25E80ED5BF3A8ED746E71A /* 3039.png */,
+				597C87ED4DB838FF0A0082CABE47ED11 /* 3040.png */,
+				9DD099322A61B788DE6DD67A38B464B5 /* 3041.png */,
+				83F339B07B01BAE04252FACDF1669EDA /* 3042.png */,
+				76C446CC956A7878904BE79A8417828B /* 3043.png */,
+				30D3F5D8464DBE6E2AEB590DA6E4456C /* 3044.png */,
+				E80E236A99BCC61E83A9C6BD8949D5DC /* 3045.png */,
+				8A359F6DADDC2901C296EB24174149A0 /* 3046.png */,
+				3AF9C91C92BBD18AEF2370CF1ABDE419 /* 3047.png */,
+				8B8F918934A2C354AF1F811090AD13BD /* 3048.png */,
+				3888BCF66D6549097C2115F2F597FB35 /* 3049.png */,
+				B6D5E37E68230C43F6A5829B02002951 /* 3050.png */,
+				83DAA9F5EA28858ABD963EC325823A91 /* 3051.png */,
+				65CE690FFB23DF9A660AF92B208FC7E7 /* 3052.png */,
+				713C01B90F440FFE05875F5950888D12 /* 3053.png */,
+				2D246625F3B0BC007548EA484BBA7BCD /* 3054.png */,
+				57ECDE86FCD31EF1DEF882A1D3E2D5F7 /* 3055.png */,
+				946D476E74F070470102319350DCD7E6 /* 3056.png */,
+				3F97E7D488592598FC7682D5E65FEA73 /* 3057.png */,
+				4249D6A0DB1FE0D25D91B76DD8E00019 /* 3058.png */,
+				C194E85F664627409DA8286FFFCBA10D /* 3059.png */,
+				A71ECB25664D436A5EFA172021B9FD0A /* 3063.png */,
+				5A6456DCF220D1E27AC23272FE6415AA /* 3100.png */,
+				431BE7745495F34CBBF2CA8402A06294 /* 3101.png */,
+				02F379540136A1DD3D505E10CEDB092E /* 3102.png */,
+				0877B2BD56604F052877309FF6122079 /* 3104.png */,
+				253EF99D9F4BDEADEB31D12FF3425DEE /* 3105.png */,
+				DB4E4B41E5070BC6B4EA66FCD0D34A79 /* 3111.png */,
+				E63D841CDA78CE56524B1E675D4153D3 /* 3115.png */,
+				873356943E475B73AC5DDF1916DF3A4A /* 9004.png */,
+				3ACFDD5A80F2B417518E2D6F7E19D0E7 /* 9026.png */,
+			);
+			name = logo;
+			path = logo;
+			sourceTree = "<group>";
+		};
+		9DCB947DDD078FA7DAD6B1459D79965F /* Pods-podOnevlin_Example */ = {
+			isa = PBXGroup;
+			children = (
+				523815A3482C88B1EE227A9638830ECF /* Info.plist */,
+				F39800D7A523A8615EEF461FBADDC61F /* Pods-podOnevlin_Example.modulemap */,
+				466D0119276A110DA0C3A375A856703B /* Pods-podOnevlin_Example-acknowledgements.markdown */,
+				709E048941834B68C5E0FBDF931E7F3C /* Pods-podOnevlin_Example-acknowledgements.plist */,
+				9BFF0CD92CABE67B1AFE00745115974E /* Pods-podOnevlin_Example-dummy.m */,
+				84DB9B564EB624AD62E80A1E741A063C /* Pods-podOnevlin_Example-frameworks.sh */,
+				5BD09AB2906B684EBEC92B022714DCC6 /* Pods-podOnevlin_Example-resources.sh */,
+				C9BC74E1D5C7EA964F111FC91765953E /* Pods-podOnevlin_Example-umbrella.h */,
+				D1D1291C25668214C9594AC2A2B69A4B /* Pods-podOnevlin_Example.debug.xcconfig */,
+				57D937C080E2C399F0412B2C75FD444C /* Pods-podOnevlin_Example.release.xcconfig */,
+			);
+			name = "Pods-podOnevlin_Example";
+			path = "Target Support Files/Pods-podOnevlin_Example";
+			sourceTree = "<group>";
+		};
+		B0394B07EBF93125E7770C794D6DF19A /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				C7D7A514DC9BD32DC043E9416CBBFDE9 /* podOnevlin.framework */,
+				32F9EB44AFF54B1959B739774F8652F2 /* Pods_podOnevlin_Example.framework */,
+				8ABFF875559FDD288BAFA38C8404F0A0 /* Pods_podOnevlin_Tests.framework */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		B3BD6D757C1AD218CA9EA782AAC88F37 /* Development Pods */ = {
+			isa = PBXGroup;
+			children = (
+				FDEC75FD79CD9A875ACD380E0AC6EA60 /* podOnevlin */,
+			);
+			name = "Development Pods";
+			sourceTree = "<group>";
+		};
+		BC3CA7F9E30CC8F7E2DD044DD34432FC /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				D35AF013A5F0BAD4F32504907A52519E /* iOS */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		C720B0C1CBB47D01B3B8BE0104B4C4C2 /* Pods-podOnevlin_Tests */ = {
+			isa = PBXGroup;
+			children = (
+				E7D5DD19161DAE1928A7DEFDF97C1E15 /* Info.plist */,
+				057EEED362BEFD2745B3FE5208E2DE30 /* Pods-podOnevlin_Tests.modulemap */,
+				544926630CA96BA798843921E0526106 /* Pods-podOnevlin_Tests-acknowledgements.markdown */,
+				03ECFAA306958638B8B7BF34EC766CB3 /* Pods-podOnevlin_Tests-acknowledgements.plist */,
+				6E37E57B125EEFF95DDE2C85E91CE1F0 /* Pods-podOnevlin_Tests-dummy.m */,
+				AE1871D674A49B5CB39522E287E1E060 /* Pods-podOnevlin_Tests-frameworks.sh */,
+				57FCA55D5B091561BF3AD21CE59D0EFD /* Pods-podOnevlin_Tests-resources.sh */,
+				E4C220FB0EE5A045C6C364234060CF56 /* Pods-podOnevlin_Tests-umbrella.h */,
+				D1E0154995A718321E4963635A5D6482 /* Pods-podOnevlin_Tests.debug.xcconfig */,
+				F87E6D0EA2CF45DC6B7B4714C0A3B6A4 /* Pods-podOnevlin_Tests.release.xcconfig */,
+			);
+			name = "Pods-podOnevlin_Tests";
+			path = "Target Support Files/Pods-podOnevlin_Tests";
+			sourceTree = "<group>";
+		};
+		CA7E0F3D918BA17F00C427FBA83A38ED /* Targets Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				9DCB947DDD078FA7DAD6B1459D79965F /* Pods-podOnevlin_Example */,
+				C720B0C1CBB47D01B3B8BE0104B4C4C2 /* Pods-podOnevlin_Tests */,
+			);
+			name = "Targets Support Files";
+			sourceTree = "<group>";
+		};
+		CADA5B8AFE883753715344B6C6477A81 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				D70AD4341EEAB3641A17806F7CC30501 /* Info.plist */,
+				1A4D5ADDD1F7951232158607B2259436 /* podOnevlin.modulemap */,
+				AEDCD556219197C0D90E14F12349592A /* podOnevlin.xcconfig */,
+				25B5DF002A3D7C534A24FA7AAFD6562A /* podOnevlin-dummy.m */,
+				0B7CF7ACDF02EB17D5B829B2E630043E /* podOnevlin-prefix.pch */,
+				230A1C9494EDFE45C9C9B98BF7E5A855 /* podOnevlin-umbrella.h */,
+			);
+			name = "Support Files";
+			path = "Example/Pods/Target Support Files/podOnevlin";
+			sourceTree = "<group>";
+		};
+		D35AF013A5F0BAD4F32504907A52519E /* iOS */ = {
+			isa = PBXGroup;
+			children = (
+				6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */,
+			);
+			name = iOS;
+			sourceTree = "<group>";
+		};
+		FDEC75FD79CD9A875ACD380E0AC6EA60 /* podOnevlin */ = {
+			isa = PBXGroup;
+			children = (
+				6D6B8A8C4691B7B4D3CBE2EFDF154A7D /* bankList.plist */,
+				0BFD3EADED486F75E936C809CB586343 /* bankImage.bundle */,
+				288FDEF3264F83326ED1EF86CC098054 /* BaoFooPay.framework */,
+				CADA5B8AFE883753715344B6C6477A81 /* Support Files */,
+			);
+			name = podOnevlin;
+			path = ../..;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		3CB90C17321670C1CE99F7C949C2C9A8 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4CD9294B6BACBBEC56F2F78D9730A63C /* BaoFooPay.h in Headers */,
+				3B657E37FE465887519623BB2AEEDC7D /* BaoFooPayController.h in Headers */,
+				BFBADB7126668EB8232CC9A6B5244CFD /* BFProgressHUD.h in Headers */,
+				1497B8AB260066A9AF8D60F622807096 /* podOnevlin-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		64B402AE5DB762314CEF4897C41EEA97 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9E9499003CC0AA01204C56301AD97642 /* Pods-podOnevlin_Example-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		90B4130FC9FBEA4777E26010C14F87C8 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C9039C53DD5A55891BA07723C0FF2836 /* Pods-podOnevlin_Tests-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		406455924D7C08779FA167EC8F603757 /* Pods-podOnevlin_Example */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C13074DB7B7B1E11713AD48FF755A39A /* Build configuration list for PBXNativeTarget "Pods-podOnevlin_Example" */;
+			buildPhases = (
+				D1F4DAF54C5DCA987634A486C34E2B0E /* Sources */,
+				6E30DB5E9D07B540A2299BB2FA54135D /* Frameworks */,
+				64B402AE5DB762314CEF4897C41EEA97 /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				9B2FB97C568062350F2471B402686355 /* PBXTargetDependency */,
+			);
+			name = "Pods-podOnevlin_Example";
+			productName = "Pods-podOnevlin_Example";
+			productReference = 32F9EB44AFF54B1959B739774F8652F2 /* Pods_podOnevlin_Example.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		A22112E7A5736325B6AAC1CA71617445 /* podOnevlin */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = E32AF476DD71C2E733D3A331A3D3AB71 /* Build configuration list for PBXNativeTarget "podOnevlin" */;
+			buildPhases = (
+				5C66B0C13FE774049CF313490A366311 /* Sources */,
+				2870994D3CCD577F3C49980A2C47792C /* Frameworks */,
+				3CB90C17321670C1CE99F7C949C2C9A8 /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = podOnevlin;
+			productName = podOnevlin;
+			productReference = C7D7A514DC9BD32DC043E9416CBBFDE9 /* podOnevlin.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		EDA0091784E50ED7C47D7C84E556FAB1 /* Pods-podOnevlin_Tests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 19BD47C783ED5A0197BA9C24B16B422A /* Build configuration list for PBXNativeTarget "Pods-podOnevlin_Tests" */;
+			buildPhases = (
+				5C528521CB64A916130CEF4264A15BD3 /* Sources */,
+				2A3B5A5823F93CFECEB7AF36832B1164 /* Frameworks */,
+				90B4130FC9FBEA4777E26010C14F87C8 /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Pods-podOnevlin_Tests";
+			productName = "Pods-podOnevlin_Tests";
+			productReference = 8ABFF875559FDD288BAFA38C8404F0A0 /* Pods_podOnevlin_Tests.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		D41D8CD98F00B204E9800998ECF8427E /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0830;
+				LastUpgradeCheck = 0700;
+			};
+			buildConfigurationList = 2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 7DB346D0F39D3F0E887471402A8071AB;
+			productRefGroup = B0394B07EBF93125E7770C794D6DF19A /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				A22112E7A5736325B6AAC1CA71617445 /* podOnevlin */,
+				406455924D7C08779FA167EC8F603757 /* Pods-podOnevlin_Example */,
+				EDA0091784E50ED7C47D7C84E556FAB1 /* Pods-podOnevlin_Tests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		5C528521CB64A916130CEF4264A15BD3 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3AF0A0ABEF742CCDDCCE6E8390BA966F /* Pods-podOnevlin_Tests-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5C66B0C13FE774049CF313490A366311 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A93131FC5DD461CF1B8A18B033075F60 /* 1032.png in Sources */,
+				2983EC22EB446A4924EADA48566D49D7 /* 1061.png in Sources */,
+				FF8704877EBA3F371FEACAEC1BC8759B /* 3001.png in Sources */,
+				335AE388A0F87906B9825110EC68258D /* 3002.png in Sources */,
+				084CCE12A1D9BC5C1A6595EFB15EF7A6 /* 3003.png in Sources */,
+				9B22C4B798CA5EC35BA78A3C15E8D9A2 /* 3004.png in Sources */,
+				8599055A4C41A043D1DC441C0A347E9A /* 3005.png in Sources */,
+				4C8360DD45C667792F80931404D3CF87 /* 3006.png in Sources */,
+				90AD3E103FA2FE34A16D730AA6D6617C /* 3008.png in Sources */,
+				CED37834643DFAE5EE6CE9CA6C06B756 /* 3009.png in Sources */,
+				957660645AF26D4E039E083CA1FC04C8 /* 3020.png in Sources */,
+				40473D61C8EADA445289CA7BE5339391 /* 3022.png in Sources */,
+				33C5B9EAFD67010FCB700A124A17F77B /* 3026.png in Sources */,
+				7C717BEF68D6B04D66EA741FE5CB82CD /* 3032.png in Sources */,
+				150E4BDBBFE07FE8D97766B97E0ECD7D /* 3033.png in Sources */,
+				2133701796FEEC5A5E4E6A8E11E0E9C4 /* 3034.png in Sources */,
+				83209A0C0CF789C7F334B0BEE295FA4B /* 3035.png in Sources */,
+				CDBAC5BFC2DEF112A0C9644E246FD88B /* 3036.png in Sources */,
+				A8EEF585C39CD36AEEBE6FDCD6F6678E /* 3037.png in Sources */,
+				16114BBB399F7BA8BCFD223E1C3B7EE2 /* 3038.png in Sources */,
+				7B6A1C709CEC78BC38DA35FC07708711 /* 3039.png in Sources */,
+				86CCE637CE38214CFD9E165EC8B8896E /* 3040.png in Sources */,
+				EEB392931B21F97B93CA7E404A6414BA /* 3041.png in Sources */,
+				DF8149299DE6C74FD5DA72594849800A /* 3042.png in Sources */,
+				25FCEE7819D5F3FC1BD8B43D798BDC16 /* 3043.png in Sources */,
+				58F6800D056E70BCAC015CF4FFA3FFEB /* 3044.png in Sources */,
+				0CF09FB70705F49A9C5E85B47E863C37 /* 3045.png in Sources */,
+				846A8DAEDE6190A4C34CC5373E0539BA /* 3046.png in Sources */,
+				7D1F301E0D7A79E1B1E047CDC6B05D25 /* 3047.png in Sources */,
+				90F1D13A7E7BC05F55359FBEE91183D5 /* 3048.png in Sources */,
+				6C6B7BE617543D1D64A495B420C3C9EF /* 3049.png in Sources */,
+				667384A96379E3C410A3E4BEF565CC63 /* 3050.png in Sources */,
+				D76750DDD660AB28EF52294FD2BD911B /* 3051.png in Sources */,
+				1A5179FDB291BD6BB07A0A4BC15654EB /* 3052.png in Sources */,
+				37162B1D4F61A82AF927917F408A0367 /* 3053.png in Sources */,
+				82FD19FDED70DD499FB73FE35886DB0E /* 3054.png in Sources */,
+				2525F5EAEA96F2EB1B20D7764CA9B6E2 /* 3055.png in Sources */,
+				8BFDC2C1B71C21FCC535FEAE7AD1B0C4 /* 3056.png in Sources */,
+				10E6A710AFDC157640016370E111D5B4 /* 3057.png in Sources */,
+				F70B4F7787C075825E8D974209C44087 /* 3058.png in Sources */,
+				31F148780D53B266515C46195B16E981 /* 3059.png in Sources */,
+				B0467951BC68BEBB50F29539D1323AAC /* 3063.png in Sources */,
+				62C5AA6C0CB8D95FA804803A424B9192 /* 3100.png in Sources */,
+				B5E7B540D9961BEE8AD85469C22A09E4 /* 3101.png in Sources */,
+				7D44B53FFC492897A856ADBDC6844EE1 /* 3102.png in Sources */,
+				B69D7BA58C6CB03AD6E3B5B176C757A5 /* 3104.png in Sources */,
+				D6CC7C5F1CB97FF6522914B74BD70FFC /* 3105.png in Sources */,
+				36F427F3E408EA4C3CA4F84B94568768 /* 3111.png in Sources */,
+				F30996F98DCF3BE86441E1AEAD3F0B7B /* 3115.png in Sources */,
+				E0FF1AAAFF842E9383EE79F10BD05C6F /* 9004.png in Sources */,
+				E7855BF98D2426C103275B0C039AE685 /* 9026.png in Sources */,
+				A6EB0418E13FBE3A8EFE3E30FF1D48E9 /* bankList.plist in Sources */,
+				73FD991436E844B1912BB6B3D19102EF /* BaoFooPay in Sources */,
+				8AD1D7F859E961E7DD2D84CFFAAC725E /* CodeDirectory in Sources */,
+				E4D848B339CCD58847B764C7D5F785BC /* CodeRequirements in Sources */,
+				727019A3C40934EE5C6E8744EEB2218D /* CodeResources in Sources */,
+				7FE13D4F0D369A308013E2EBEFA1881D /* CodeSignature in Sources */,
+				185FBA47963E72B7BFD2CC5E543A566D /* Info.plist in Sources */,
+				8AB661897B1C7D781963E1408023A696 /* module.modulemap in Sources */,
+				5D79329506247DF7C66613454272B101 /* podOnevlin-dummy.m in Sources */,
+				94D17065D01CE0B9D38108311FD2E625 /* Root.plist in Sources */,
+				D1067E309F11C2F5420A1A60698A3A43 /* Root.strings in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D1F4DAF54C5DCA987634A486C34E2B0E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BC26F0A264B5CCD6DDAAC26DDE2AA5EE /* Pods-podOnevlin_Example-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		9B2FB97C568062350F2471B402686355 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = podOnevlin;
+			target = A22112E7A5736325B6AAC1CA71617445 /* podOnevlin */;
+			targetProxy = 5706A7C2FFE2BB2407DD9E7A3E454DA9 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		41CDEC43BF247470FECCF200691B58A8 /* Root.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				DC196F0E0C1C42C2FD1BDF9D3C20D7F3 /* Root.strings */,
+			);
+			name = Root.strings;
+			path = .;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		046B856DFE29DBDDAE8D7F3F84F6D6F9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = AEDCD556219197C0D90E14F12349592A /* podOnevlin.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/podOnevlin/podOnevlin-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/podOnevlin/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/podOnevlin/podOnevlin.modulemap";
+				MTL_ENABLE_DEBUG_INFO = YES;
+				PRODUCT_NAME = podOnevlin;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		0BD859FBACE3964521623D69D58C6FBE /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = AEDCD556219197C0D90E14F12349592A /* podOnevlin.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/podOnevlin/podOnevlin-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/podOnevlin/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/podOnevlin/podOnevlin.modulemap";
+				MTL_ENABLE_DEBUG_INFO = NO;
+				PRODUCT_NAME = podOnevlin;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		22440DBDA21CB792D600751D6E8E2FDA /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 57D937C080E2C399F0412B2C75FD444C /* Pods-podOnevlin_Example.release.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				INFOPLIST_FILE = "Target Support Files/Pods-podOnevlin_Example/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-podOnevlin_Example/Pods-podOnevlin_Example.modulemap";
+				MTL_ENABLE_DEBUG_INFO = NO;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = Pods_podOnevlin_Example;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		27B4C7BBBCE06E5D58BFE6F2B500DDDE /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = F87E6D0EA2CF45DC6B7B4714C0A3B6A4 /* Pods-podOnevlin_Tests.release.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				INFOPLIST_FILE = "Target Support Files/Pods-podOnevlin_Tests/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-podOnevlin_Tests/Pods-podOnevlin_Tests.modulemap";
+				MTL_ENABLE_DEBUG_INFO = NO;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = Pods_podOnevlin_Tests;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		5AACFED877CD8B6EC277018E4CA06DD5 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = D1E0154995A718321E4963635A5D6482 /* Pods-podOnevlin_Tests.debug.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				INFOPLIST_FILE = "Target Support Files/Pods-podOnevlin_Tests/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-podOnevlin_Tests/Pods-podOnevlin_Tests.modulemap";
+				MTL_ENABLE_DEBUG_INFO = YES;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = Pods_podOnevlin_Tests;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		717E77604BFBB04BEAF56608A1CB2EDE /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGNING_REQUIRED = NO;
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"POD_CONFIGURATION_RELEASE=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				PROVISIONING_PROFILE_SPECIFIER = NO_SIGNING/;
+				STRIP_INSTALLED_PRODUCT = NO;
+				SYMROOT = "${SRCROOT}/../build";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		A6A03C9B1314C05BD3C2FBD3F65EDF83 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGNING_REQUIRED = NO;
+				COPY_PHASE_STRIP = NO;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"POD_CONFIGURATION_DEBUG=1",
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				ONLY_ACTIVE_ARCH = YES;
+				PROVISIONING_PROFILE_SPECIFIER = NO_SIGNING/;
+				STRIP_INSTALLED_PRODUCT = NO;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SYMROOT = "${SRCROOT}/../build";
+			};
+			name = Debug;
+		};
+		F77B769E0872EB82B5E6FF32B0031F0F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = D1D1291C25668214C9594AC2A2B69A4B /* Pods-podOnevlin_Example.debug.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				INFOPLIST_FILE = "Target Support Files/Pods-podOnevlin_Example/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-podOnevlin_Example/Pods-podOnevlin_Example.modulemap";
+				MTL_ENABLE_DEBUG_INFO = YES;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = Pods_podOnevlin_Example;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		19BD47C783ED5A0197BA9C24B16B422A /* Build configuration list for PBXNativeTarget "Pods-podOnevlin_Tests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5AACFED877CD8B6EC277018E4CA06DD5 /* Debug */,
+				27B4C7BBBCE06E5D58BFE6F2B500DDDE /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A6A03C9B1314C05BD3C2FBD3F65EDF83 /* Debug */,
+				717E77604BFBB04BEAF56608A1CB2EDE /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C13074DB7B7B1E11713AD48FF755A39A /* Build configuration list for PBXNativeTarget "Pods-podOnevlin_Example" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F77B769E0872EB82B5E6FF32B0031F0F /* Debug */,
+				22440DBDA21CB792D600751D6E8E2FDA /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		E32AF476DD71C2E733D3A331A3D3AB71 /* Build configuration list for PBXNativeTarget "podOnevlin" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				046B856DFE29DBDDAE8D7F3F84F6D6F9 /* Debug */,
+				0BD859FBACE3964521623D69D58C6FBE /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+}

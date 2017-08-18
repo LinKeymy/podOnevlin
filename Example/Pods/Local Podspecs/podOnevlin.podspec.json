@@ -1,0 +1,22 @@
+{
+  "name": "podOnevlin",
+  "version": "0.1.0",
+  "summary": "A short description of podOnevlin.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/TouzhijiaAdmi/podOnevlin",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "TouzhijiaAdmi": "fudanxiaoan@outlook.com"
+  },
+  "source": {
+    "git": "https://github.com/TouzhijiaAdmi/podOnevlin.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "podOnevlin/Classes/**/*"
+}
