@@ -1,11 +1,10 @@
 use_frameworks!
 
 target 'podOnevlin_Example' do
-  pod 'podOnevlin', :path => '../'
+  pod 'podOnevlin', :path => '~/Desktop/learnPod/podOnevlin/podOnevlin.podspec'
 
   target 'podOnevlin_Tests' do
     inherit! :search_paths
 
-    
   end
 end

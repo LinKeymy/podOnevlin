@@ -10,9 +10,6 @@
 #endif
 #endif
 
-#import "BaoFooPay.h"
-#import "BaoFooPayController.h"
-#import "BFProgressHUD.h"
 
 FOUNDATION_EXPORT double podOnevlinVersionNumber;
 FOUNDATION_EXPORT const unsigned char podOnevlinVersionString[];

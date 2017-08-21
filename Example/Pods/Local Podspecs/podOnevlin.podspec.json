@@ -1,9 +1,9 @@
 {
   "name": "podOnevlin",
   "version": "0.1.0",
-  "summary": "A short description of podOnevlin.",
+  "summary": "A demo of podOnevlin.",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/TouzhijiaAdmi/podOnevlin",
+  "homepage": "https://github.com/LinKeymy/podOnevlin",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,11 +12,31 @@
     "TouzhijiaAdmi": "fudanxiaoan@outlook.com"
   },
   "source": {
-    "git": "https://github.com/TouzhijiaAdmi/podOnevlin.git",
+    "git": "https://github.com/LinKeymy/podOnevlin.git",
     "tag": "0.1.0"
   },
   "platforms": {
     "ios": "8.0"
   },
-  "source_files": "podOnevlin/Classes/**/*"
+  "source_files": "podOnevlin/Classes/**/*",
+  "subspecs": [
+    {
+      "name": "Alert",
+      "source_files": "podOnevlin/Classes/Alert/**/*"
+    },
+    {
+      "name": "Replace",
+      "source_files": "podOnevlin/Classes/Replace/**/*"
+    },
+    {
+      "name": "Place",
+      "source_files": "podOnevlin/Classes/Place/**/*",
+      "subspecs": [
+        {
+          "name": "Cool",
+          "source_files": "podOnevlin/Classes/Place/Cool/**/*"
+        }
+      ]
+    }
+  ]
 }
