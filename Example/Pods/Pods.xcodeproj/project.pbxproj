@@ -7,20 +7,21 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		04D913C0679BF58F42F1ABCC314A4782 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */; };
-		1D02D4199629EA8E2DE1C8908F1192FC /* podOnevlin-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = AEBB9EAA705315F4078B27F470CF81DE /* podOnevlin-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		2B7AC957A89C96FF90ADF3EAA3792204 /* podOnevlin-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 84C526C662A56CEB64E9E57F3C919E43 /* podOnevlin-dummy.m */; };
 		3AF0A0ABEF742CCDDCCE6E8390BA966F /* Pods-podOnevlin_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 6E37E57B125EEFF95DDE2C85E91CE1F0 /* Pods-podOnevlin_Tests-dummy.m */; };
-		5D55B790E5999768365BD7F096709CC3 /* TwoAlert.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CD6F06098BFE71F02CBE48794E5EEB9 /* TwoAlert.swift */; };
-		6D655C1986D102D0FD21A375B343972E /* rede.swift in Sources */ = {isa = PBXBuildFile; fileRef = F273F7D8C7C4C0839ED44F697BAE175E /* rede.swift */; };
-		973D05318BE866ACE6D9DA1DADF4FA8B /* OneAlert.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BB82F2976877D5572CB045BCDF831E6 /* OneAlert.swift */; };
+		653CC33518F0F64DA4532E9BD57C1911 /* Inreplace.swift in Sources */ = {isa = PBXBuildFile; fileRef = A444B790D1B92E153029D5128A98C5A0 /* Inreplace.swift */; };
+		76E9DE153E64B6805A9CE9F3A6A78A47 /* ReplaceMe.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC824C48EA550D677A6C5C0C5F49A349 /* ReplaceMe.swift */; };
+		83A71C5090BD25CA6589683B89B139CD /* rede.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7972A474C3A39EF087DBCDD09E08DFA /* rede.swift */; };
 		9E9499003CC0AA01204C56301AD97642 /* Pods-podOnevlin_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = C9BC74E1D5C7EA964F111FC91765953E /* Pods-podOnevlin_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		A69E1A8E281856156A669E9F77484645 /* placeMe.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45AD7AAE16542644D9A3EADCE2536929 /* placeMe.swift */; };
+		A5AA6E3353E33EC873F546AE5FA5186B /* podOnevlin-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 4EFAB2E91B1E348C82AEF208E5EB4F5B /* podOnevlin-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		B1AE29D382249654F2A93FA9B5E4C118 /* placeMe.swift in Sources */ = {isa = PBXBuildFile; fileRef = E23521C7F431D66C20F00EC339E454AA /* placeMe.swift */; };
 		BC26F0A264B5CCD6DDAAC26DDE2AA5EE /* Pods-podOnevlin_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 9BFF0CD92CABE67B1AFE00745115974E /* Pods-podOnevlin_Example-dummy.m */; };
-		C14B547F429E0016A090A06C68055F0A /* cool.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33DAB826585567CEAC11F05224ABFA2E /* cool.swift */; };
+		C7D56BDBED346A781AB6368D2ACD6EB8 /* cool.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80C5CFE37F7BB6846AD9038D8D9B6AA5 /* cool.swift */; };
 		C9039C53DD5A55891BA07723C0FF2836 /* Pods-podOnevlin_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = E4C220FB0EE5A045C6C364234060CF56 /* Pods-podOnevlin_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		E372DB1542DA45D11B19FFFD347A24A2 /* ReplaceMe.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B3073C2FC3F6A28CDB806E95DE3C23C /* ReplaceMe.swift */; };
+		D6BF39C58DA49C4CF326E50DAE81C932 /* OneAlert.swift in Sources */ = {isa = PBXBuildFile; fileRef = AED7D55D12261930582BA3FADEB419F5 /* OneAlert.swift */; };
+		E278C7503973374B60F0F4C235287842 /* TwoAlert.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B1C2B040E3014598B52D28956354007 /* TwoAlert.swift */; };
+		E68E4FA8BACF5F5B7CD988190F74368D /* podOnevlin-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 0973BA54D3309395F201848538286525 /* podOnevlin-dummy.m */; };
 		ECC9F1ECFA4D34987E4CB0859027AF77 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */; };
+		EEAE4869842E8401C991725574EC6B50 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */; };
 		F3EA9AC7375582800BA88B7DA050DFFA /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */; };
 /* End PBXBuildFile section */
 
@@ -29,7 +30,7 @@
 			isa = PBXContainerItemProxy;
 			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 3B4BDBA88B1B071CA044E6200386F5AF;
+			remoteGlobalIDString = 81C6DC0DA144B5CB60693CBBA986261A;
 			remoteInfo = podOnevlin;
 		};
 /* End PBXContainerItemProxy section */
@@ -37,44 +38,53 @@
 /* Begin PBXFileReference section */
 		03ECFAA306958638B8B7BF34EC766CB3 /* Pods-podOnevlin_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-podOnevlin_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		057EEED362BEFD2745B3FE5208E2DE30 /* Pods-podOnevlin_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-podOnevlin_Tests.modulemap"; sourceTree = "<group>"; };
-		0BB82F2976877D5572CB045BCDF831E6 /* OneAlert.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = OneAlert.swift; sourceTree = "<group>"; };
-		2CD6F06098BFE71F02CBE48794E5EEB9 /* TwoAlert.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = TwoAlert.swift; sourceTree = "<group>"; };
+		0973BA54D3309395F201848538286525 /* podOnevlin-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "podOnevlin-dummy.m"; sourceTree = "<group>"; };
 		32F9EB44AFF54B1959B739774F8652F2 /* Pods_podOnevlin_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_podOnevlin_Example.framework; path = "Pods-podOnevlin_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		33DAB826585567CEAC11F05224ABFA2E /* cool.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = cool.swift; sourceTree = "<group>"; };
-		45AD7AAE16542644D9A3EADCE2536929 /* placeMe.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = placeMe.swift; sourceTree = "<group>"; };
 		466D0119276A110DA0C3A375A856703B /* Pods-podOnevlin_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-podOnevlin_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
+		4EFAB2E91B1E348C82AEF208E5EB4F5B /* podOnevlin-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "podOnevlin-umbrella.h"; sourceTree = "<group>"; };
 		523815A3482C88B1EE227A9638830ECF /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		53C09F4EB0EAF6730DE539321BC761B4 /* podOnevlin.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = podOnevlin.modulemap; sourceTree = "<group>"; };
 		544926630CA96BA798843921E0526106 /* Pods-podOnevlin_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-podOnevlin_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		57D937C080E2C399F0412B2C75FD444C /* Pods-podOnevlin_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-podOnevlin_Example.release.xcconfig"; sourceTree = "<group>"; };
 		57FCA55D5B091561BF3AD21CE59D0EFD /* Pods-podOnevlin_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-podOnevlin_Tests-resources.sh"; sourceTree = "<group>"; };
 		5BD09AB2906B684EBEC92B022714DCC6 /* Pods-podOnevlin_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-podOnevlin_Example-resources.sh"; sourceTree = "<group>"; };
+		65E59A81D15FED3BCE981FC078AE01E5 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		6E37E57B125EEFF95DDE2C85E91CE1F0 /* Pods-podOnevlin_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-podOnevlin_Tests-dummy.m"; sourceTree = "<group>"; };
 		709E048941834B68C5E0FBDF931E7F3C /* Pods-podOnevlin_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-podOnevlin_Example-acknowledgements.plist"; sourceTree = "<group>"; };
-		84C526C662A56CEB64E9E57F3C919E43 /* podOnevlin-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "podOnevlin-dummy.m"; sourceTree = "<group>"; };
+		7B1C2B040E3014598B52D28956354007 /* TwoAlert.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = TwoAlert.swift; sourceTree = "<group>"; };
+		7C95D0DFC6910B60095FB3498E81D4DA /* podOnevlin-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "podOnevlin-prefix.pch"; sourceTree = "<group>"; };
+		7E290AE4A7E52B82AE2BE204D9887B74 /* podOnevlin.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = podOnevlin.xcconfig; sourceTree = "<group>"; };
+		80C5CFE37F7BB6846AD9038D8D9B6AA5 /* cool.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = cool.swift; sourceTree = "<group>"; };
 		84DB9B564EB624AD62E80A1E741A063C /* Pods-podOnevlin_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-podOnevlin_Example-frameworks.sh"; sourceTree = "<group>"; };
-		85933BDB4AF6F6A0ED2E75AB9D8F68F7 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8ABFF875559FDD288BAFA38C8404F0A0 /* Pods_podOnevlin_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_podOnevlin_Tests.framework; path = "Pods-podOnevlin_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		9B3073C2FC3F6A28CDB806E95DE3C23C /* ReplaceMe.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = ReplaceMe.swift; sourceTree = "<group>"; };
 		9BFF0CD92CABE67B1AFE00745115974E /* Pods-podOnevlin_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-podOnevlin_Example-dummy.m"; sourceTree = "<group>"; };
+		A444B790D1B92E153029D5128A98C5A0 /* Inreplace.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = Inreplace.swift; sourceTree = "<group>"; };
 		AE1871D674A49B5CB39522E287E1E060 /* Pods-podOnevlin_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-podOnevlin_Tests-frameworks.sh"; sourceTree = "<group>"; };
-		AEBB9EAA705315F4078B27F470CF81DE /* podOnevlin-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "podOnevlin-umbrella.h"; sourceTree = "<group>"; };
+		AED7D55D12261930582BA3FADEB419F5 /* OneAlert.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = OneAlert.swift; sourceTree = "<group>"; };
+		B7972A474C3A39EF087DBCDD09E08DFA /* rede.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = rede.swift; sourceTree = "<group>"; };
 		C7D7A514DC9BD32DC043E9416CBBFDE9 /* podOnevlin.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = podOnevlin.framework; path = podOnevlin.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		C9BC74E1D5C7EA964F111FC91765953E /* Pods-podOnevlin_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-podOnevlin_Example-umbrella.h"; sourceTree = "<group>"; };
-		CE79B13C323AA66F0FBCF6F9564BE137 /* podOnevlin.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = podOnevlin.xcconfig; sourceTree = "<group>"; };
 		D1D1291C25668214C9594AC2A2B69A4B /* Pods-podOnevlin_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-podOnevlin_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		D1E0154995A718321E4963635A5D6482 /* Pods-podOnevlin_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-podOnevlin_Tests.debug.xcconfig"; sourceTree = "<group>"; };
+		E23521C7F431D66C20F00EC339E454AA /* placeMe.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = placeMe.swift; sourceTree = "<group>"; };
 		E4C220FB0EE5A045C6C364234060CF56 /* Pods-podOnevlin_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-podOnevlin_Tests-umbrella.h"; sourceTree = "<group>"; };
 		E7D5DD19161DAE1928A7DEFDF97C1E15 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		EC8B43B9DD5D21EC70E7F0F3D5157FA9 /* podOnevlin-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "podOnevlin-prefix.pch"; sourceTree = "<group>"; };
-		F273F7D8C7C4C0839ED44F697BAE175E /* rede.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = rede.swift; sourceTree = "<group>"; };
 		F39800D7A523A8615EEF461FBADDC61F /* Pods-podOnevlin_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-podOnevlin_Example.modulemap"; sourceTree = "<group>"; };
 		F87E6D0EA2CF45DC6B7B4714C0A3B6A4 /* Pods-podOnevlin_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-podOnevlin_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		FE5444C1EF72C7252C1BD2A3817ED66E /* podOnevlin.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = podOnevlin.modulemap; sourceTree = "<group>"; };
+		FC824C48EA550D677A6C5C0C5F49A349 /* ReplaceMe.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = ReplaceMe.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
+		08FE107DB55492AF65F517AA6235388E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EEAE4869842E8401C991725574EC6B50 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		2A3B5A5823F93CFECEB7AF36832B1164 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
@@ -91,48 +101,79 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		F0A0A79F52D5F1A902C2547E1D6F4B7B /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				04D913C0679BF58F42F1ABCC314A4782 /* Foundation.framework in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		0F822375E91D2306257B08634CEFA6A6 /* Cool */ = {
+			isa = PBXGroup;
+			children = (
+				80C5CFE37F7BB6846AD9038D8D9B6AA5 /* cool.swift */,
+			);
+			name = Cool;
+			path = Cool;
+			sourceTree = "<group>";
+		};
+		105E691F16B57BC1A857F5D46323E642 /* Place */ = {
+			isa = PBXGroup;
+			children = (
+				E23521C7F431D66C20F00EC339E454AA /* placeMe.swift */,
+				0F822375E91D2306257B08634CEFA6A6 /* Cool */,
+			);
+			name = Place;
+			path = podOnevlin/Classes/Place;
+			sourceTree = "<group>";
+		};
+		1213B42802EDCF44CBBE0BF85E961316 /* Replace */ = {
+			isa = PBXGroup;
+			children = (
+				FC824C48EA550D677A6C5C0C5F49A349 /* ReplaceMe.swift */,
+				1DCD505A2998C7D2BA534A7585FF21AC /* Inreplace */,
+			);
+			name = Replace;
+			path = podOnevlin/Classes/Replace;
+			sourceTree = "<group>";
+		};
+		1DCD505A2998C7D2BA534A7585FF21AC /* Inreplace */ = {
+			isa = PBXGroup;
+			children = (
+				A444B790D1B92E153029D5128A98C5A0 /* Inreplace.swift */,
+			);
+			name = Inreplace;
+			path = Inreplace;
+			sourceTree = "<group>";
+		};
 		2EE959E2297A37959A0ABA44C1191A4D /* Development Pods */ = {
 			isa = PBXGroup;
 			children = (
-				C8AD9E854BFC5E6B8487993246307087 /* podOnevlin */,
+				34C88E2C30632A01A6FFE926DBDB6967 /* podOnevlin */,
 			);
 			name = "Development Pods";
 			sourceTree = "<group>";
 		};
-		535A5A02A74892A5AD12149CE51C3B29 /* Support Files */ = {
+		34C88E2C30632A01A6FFE926DBDB6967 /* podOnevlin */ = {
 			isa = PBXGroup;
 			children = (
-				85933BDB4AF6F6A0ED2E75AB9D8F68F7 /* Info.plist */,
-				FE5444C1EF72C7252C1BD2A3817ED66E /* podOnevlin.modulemap */,
-				CE79B13C323AA66F0FBCF6F9564BE137 /* podOnevlin.xcconfig */,
-				84C526C662A56CEB64E9E57F3C919E43 /* podOnevlin-dummy.m */,
-				EC8B43B9DD5D21EC70E7F0F3D5157FA9 /* podOnevlin-prefix.pch */,
-				AEBB9EAA705315F4078B27F470CF81DE /* podOnevlin-umbrella.h */,
+				E2FED5CB3A77E7039A44EA6C283D463A /* Alert */,
+				105E691F16B57BC1A857F5D46323E642 /* Place */,
+				1213B42802EDCF44CBBE0BF85E961316 /* Replace */,
+				6939654B19D4CFBFE08636211E19668C /* Support Files */,
+			);
+			name = podOnevlin;
+			path = /Users/touzhijiaadmi/Desktop/learnPod/podOnevlin;
+			sourceTree = "<absolute>";
+		};
+		6939654B19D4CFBFE08636211E19668C /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				65E59A81D15FED3BCE981FC078AE01E5 /* Info.plist */,
+				53C09F4EB0EAF6730DE539321BC761B4 /* podOnevlin.modulemap */,
+				7E290AE4A7E52B82AE2BE204D9887B74 /* podOnevlin.xcconfig */,
+				0973BA54D3309395F201848538286525 /* podOnevlin-dummy.m */,
+				7C95D0DFC6910B60095FB3498E81D4DA /* podOnevlin-prefix.pch */,
+				4EFAB2E91B1E348C82AEF208E5EB4F5B /* podOnevlin-umbrella.h */,
 			);
 			name = "Support Files";
 			path = "Example/Pods/Target Support Files/podOnevlin";
-			sourceTree = "<group>";
-		};
-		7CDCA4320919A439621B6AE53D161490 /* Alert */ = {
-			isa = PBXGroup;
-			children = (
-				0BB82F2976877D5572CB045BCDF831E6 /* OneAlert.swift */,
-				F273F7D8C7C4C0839ED44F697BAE175E /* rede.swift */,
-				2CD6F06098BFE71F02CBE48794E5EEB9 /* TwoAlert.swift */,
-			);
-			name = Alert;
-			path = podOnevlin/Classes/Alert;
 			sourceTree = "<group>";
 		};
 		7DB346D0F39D3F0E887471402A8071AB = {
@@ -144,25 +185,6 @@
 				B0394B07EBF93125E7770C794D6DF19A /* Products */,
 				CA7E0F3D918BA17F00C427FBA83A38ED /* Targets Support Files */,
 			);
-			sourceTree = "<group>";
-		};
-		80FE3D0BED61D756221CBE2EC5804C94 /* Place */ = {
-			isa = PBXGroup;
-			children = (
-				45AD7AAE16542644D9A3EADCE2536929 /* placeMe.swift */,
-				B0EED8B855EB8FB0A419E95E1A454CEB /* Cool */,
-			);
-			name = Place;
-			path = podOnevlin/Classes/Place;
-			sourceTree = "<group>";
-		};
-		82DAC554F0DF6E180676D0F74351A98E /* Replace */ = {
-			isa = PBXGroup;
-			children = (
-				9B3073C2FC3F6A28CDB806E95DE3C23C /* ReplaceMe.swift */,
-			);
-			name = Replace;
-			path = podOnevlin/Classes/Replace;
 			sourceTree = "<group>";
 		};
 		9DCB947DDD078FA7DAD6B1459D79965F /* Pods-podOnevlin_Example */ = {
@@ -193,15 +215,6 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		B0EED8B855EB8FB0A419E95E1A454CEB /* Cool */ = {
-			isa = PBXGroup;
-			children = (
-				33DAB826585567CEAC11F05224ABFA2E /* cool.swift */,
-			);
-			name = Cool;
-			path = Cool;
-			sourceTree = "<group>";
-		};
 		BC3CA7F9E30CC8F7E2DD044DD34432FC /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
@@ -228,18 +241,6 @@
 			path = "Target Support Files/Pods-podOnevlin_Tests";
 			sourceTree = "<group>";
 		};
-		C8AD9E854BFC5E6B8487993246307087 /* podOnevlin */ = {
-			isa = PBXGroup;
-			children = (
-				7CDCA4320919A439621B6AE53D161490 /* Alert */,
-				80FE3D0BED61D756221CBE2EC5804C94 /* Place */,
-				82DAC554F0DF6E180676D0F74351A98E /* Replace */,
-				535A5A02A74892A5AD12149CE51C3B29 /* Support Files */,
-			);
-			name = podOnevlin;
-			path = /Users/touzhijiaadmi/Desktop/learnPod/podOnevlin;
-			sourceTree = "<absolute>";
-		};
 		CA7E0F3D918BA17F00C427FBA83A38ED /* Targets Support Files */ = {
 			isa = PBXGroup;
 			children = (
@@ -257,17 +258,20 @@
 			name = iOS;
 			sourceTree = "<group>";
 		};
+		E2FED5CB3A77E7039A44EA6C283D463A /* Alert */ = {
+			isa = PBXGroup;
+			children = (
+				AED7D55D12261930582BA3FADEB419F5 /* OneAlert.swift */,
+				B7972A474C3A39EF087DBCDD09E08DFA /* rede.swift */,
+				7B1C2B040E3014598B52D28956354007 /* TwoAlert.swift */,
+			);
+			name = Alert;
+			path = podOnevlin/Classes/Alert;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
-		61AEEA8B065D884370888EC3B8A9FAF9 /* Headers */ = {
-			isa = PBXHeadersBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				1D02D4199629EA8E2DE1C8908F1192FC /* podOnevlin-umbrella.h in Headers */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		64B402AE5DB762314CEF4897C41EEA97 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
@@ -284,26 +288,17 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		952F320E7EF2A14CFF33A5DEB06FCF39 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A5AA6E3353E33EC873F546AE5FA5186B /* podOnevlin-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
-		3B4BDBA88B1B071CA044E6200386F5AF /* podOnevlin */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 3B7314B70714F2126EEF7AB0E4FC1CF8 /* Build configuration list for PBXNativeTarget "podOnevlin" */;
-			buildPhases = (
-				96FA67FB74BBBFF3DE538FE9E531BE1A /* Sources */,
-				F0A0A79F52D5F1A902C2547E1D6F4B7B /* Frameworks */,
-				61AEEA8B065D884370888EC3B8A9FAF9 /* Headers */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-			);
-			name = podOnevlin;
-			productName = podOnevlin;
-			productReference = C7D7A514DC9BD32DC043E9416CBBFDE9 /* podOnevlin.framework */;
-			productType = "com.apple.product-type.framework";
-		};
 		406455924D7C08779FA167EC8F603757 /* Pods-podOnevlin_Example */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = C13074DB7B7B1E11713AD48FF755A39A /* Build configuration list for PBXNativeTarget "Pods-podOnevlin_Example" */;
@@ -320,6 +315,23 @@
 			name = "Pods-podOnevlin_Example";
 			productName = "Pods-podOnevlin_Example";
 			productReference = 32F9EB44AFF54B1959B739774F8652F2 /* Pods_podOnevlin_Example.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		81C6DC0DA144B5CB60693CBBA986261A /* podOnevlin */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = FC2CAB5D90615A7CD55B44AB8A943FF7 /* Build configuration list for PBXNativeTarget "podOnevlin" */;
+			buildPhases = (
+				3C3FF687D39E91F3AF3BEB2FC1964BC7 /* Sources */,
+				08FE107DB55492AF65F517AA6235388E /* Frameworks */,
+				952F320E7EF2A14CFF33A5DEB06FCF39 /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = podOnevlin;
+			productName = podOnevlin;
+			productReference = C7D7A514DC9BD32DC043E9416CBBFDE9 /* podOnevlin.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 		EDA0091784E50ED7C47D7C84E556FAB1 /* Pods-podOnevlin_Tests */ = {
@@ -360,7 +372,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				3B4BDBA88B1B071CA044E6200386F5AF /* podOnevlin */,
+				81C6DC0DA144B5CB60693CBBA986261A /* podOnevlin */,
 				406455924D7C08779FA167EC8F603757 /* Pods-podOnevlin_Example */,
 				EDA0091784E50ED7C47D7C84E556FAB1 /* Pods-podOnevlin_Tests */,
 			);
@@ -368,25 +380,26 @@
 /* End PBXProject section */
 
 /* Begin PBXSourcesBuildPhase section */
+		3C3FF687D39E91F3AF3BEB2FC1964BC7 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C7D56BDBED346A781AB6368D2ACD6EB8 /* cool.swift in Sources */,
+				653CC33518F0F64DA4532E9BD57C1911 /* Inreplace.swift in Sources */,
+				D6BF39C58DA49C4CF326E50DAE81C932 /* OneAlert.swift in Sources */,
+				B1AE29D382249654F2A93FA9B5E4C118 /* placeMe.swift in Sources */,
+				E68E4FA8BACF5F5B7CD988190F74368D /* podOnevlin-dummy.m in Sources */,
+				83A71C5090BD25CA6589683B89B139CD /* rede.swift in Sources */,
+				76E9DE153E64B6805A9CE9F3A6A78A47 /* ReplaceMe.swift in Sources */,
+				E278C7503973374B60F0F4C235287842 /* TwoAlert.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		5C528521CB64A916130CEF4264A15BD3 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 				3AF0A0ABEF742CCDDCCE6E8390BA966F /* Pods-podOnevlin_Tests-dummy.m in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		96FA67FB74BBBFF3DE538FE9E531BE1A /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				C14B547F429E0016A090A06C68055F0A /* cool.swift in Sources */,
-				973D05318BE866ACE6D9DA1DADF4FA8B /* OneAlert.swift in Sources */,
-				A69E1A8E281856156A669E9F77484645 /* placeMe.swift in Sources */,
-				2B7AC957A89C96FF90ADF3EAA3792204 /* podOnevlin-dummy.m in Sources */,
-				6D655C1986D102D0FD21A375B343972E /* rede.swift in Sources */,
-				E372DB1542DA45D11B19FFFD347A24A2 /* ReplaceMe.swift in Sources */,
-				5D55B790E5999768365BD7F096709CC3 /* TwoAlert.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -404,12 +417,47 @@
 		9B2FB97C568062350F2471B402686355 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = podOnevlin;
-			target = 3B4BDBA88B1B071CA044E6200386F5AF /* podOnevlin */;
+			target = 81C6DC0DA144B5CB60693CBBA986261A /* podOnevlin */;
 			targetProxy = 5706A7C2FFE2BB2407DD9E7A3E454DA9 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
+		0EAFC3A0B9D97EEEEA73183965A0C1F6 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 7E290AE4A7E52B82AE2BE204D9887B74 /* podOnevlin.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/podOnevlin/podOnevlin-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/podOnevlin/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/podOnevlin/podOnevlin.modulemap";
+				MTL_ENABLE_DEBUG_INFO = YES;
+				PRODUCT_NAME = podOnevlin;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
 		1C0A2DBBD4FC93424822AA7510961576 /* Release */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 57D937C080E2C399F0412B2C75FD444C /* Pods-podOnevlin_Example.release.xcconfig */;
@@ -603,76 +651,6 @@
 			};
 			name = Release;
 		};
-		77F4907BF36FDF5228C93B1A2D79A756 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = CE79B13C323AA66F0FBCF6F9564BE137 /* podOnevlin.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEBUG_INFORMATION_FORMAT = dwarf;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				GCC_NO_COMMON_BLOCKS = YES;
-				GCC_PREFIX_HEADER = "Target Support Files/podOnevlin/podOnevlin-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/podOnevlin/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/podOnevlin/podOnevlin.modulemap";
-				MTL_ENABLE_DEBUG_INFO = YES;
-				PRODUCT_NAME = podOnevlin;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				SWIFT_VERSION = 3.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
-		860F64FD5165A7159A181EAAC88CB945 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = CE79B13C323AA66F0FBCF6F9564BE137 /* podOnevlin.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				GCC_NO_COMMON_BLOCKS = YES;
-				GCC_PREFIX_HEADER = "Target Support Files/podOnevlin/podOnevlin-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/podOnevlin/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/podOnevlin/podOnevlin.modulemap";
-				MTL_ENABLE_DEBUG_INFO = NO;
-				PRODUCT_NAME = podOnevlin;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
-				SWIFT_VERSION = 3.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
 		A6A03C9B1314C05BD3C2FBD3F65EDF83 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -722,6 +700,41 @@
 			};
 			name = Debug;
 		};
+		C745B914ED90D30C9CB657A7C1718C90 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 7E290AE4A7E52B82AE2BE204D9887B74 /* podOnevlin.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/podOnevlin/podOnevlin-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/podOnevlin/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/podOnevlin/podOnevlin.modulemap";
+				MTL_ENABLE_DEBUG_INFO = NO;
+				PRODUCT_NAME = podOnevlin;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -743,20 +756,20 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		3B7314B70714F2126EEF7AB0E4FC1CF8 /* Build configuration list for PBXNativeTarget "podOnevlin" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				77F4907BF36FDF5228C93B1A2D79A756 /* Debug */,
-				860F64FD5165A7159A181EAAC88CB945 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
 		C13074DB7B7B1E11713AD48FF755A39A /* Build configuration list for PBXNativeTarget "Pods-podOnevlin_Example" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				33338B33E0B8A25F63BB5042291E2677 /* Debug */,
 				1C0A2DBBD4FC93424822AA7510961576 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		FC2CAB5D90615A7CD55B44AB8A943FF7 /* Build configuration list for PBXNativeTarget "podOnevlin" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0EAFC3A0B9D97EEEEA73183965A0C1F6 /* Debug */,
+				C745B914ED90D30C9CB657A7C1718C90 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

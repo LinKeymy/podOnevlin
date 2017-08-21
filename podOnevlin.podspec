@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'podOnevlin'
-  s.version          = '0.1.0'
+  s.version          = '1.0.0'
   s.summary          = 'A demo of podOnevlin.'
 
   s.description      = <<-DESC
@@ -26,22 +26,15 @@ TODO: Add long description of the pod here.
 
   s.source_files = 'podOnevlin/Classes/**/*'
 s.subspec 'Alert' do |commonTools|
-commonTools.source_files = 'podOnevlin/Classes/Alert/**/*'
-#commonTools.public_header_files = 'podOnevlin/Classes/Alert/**/*.h'
+    commonTools.source_files = 'podOnevlin/Classes/Alert/**/*'
 end
 
 s.subspec 'Replace' do |replace|
 replace.source_files = 'podOnevlin/Classes/Replace/**/*'
-#replace.public_header_files = 'podOnevlin/Classes/Replace/**/*.h'
 end
 
 s.subspec 'Place' do |place|
-place.source_files = 'podOnevlin/Classes/Place/**/*'
-#place.public_header_files = 'podOnevlin/Classes/Place/**/*.h'
-place.subspec 'Cool' do |cool|
-cool.source_files = 'podOnevlin/Classes/Place/Cool/**/*'
-#cool.public_header_files = 'podOnevlin/Classes/Place/Cool/**/*.h'
-end
+    place.source_files = 'podOnevlin/Classes/Place/**/*'
 end
 
 

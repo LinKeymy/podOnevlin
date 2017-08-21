@@ -1,6 +1,6 @@
 {
   "name": "podOnevlin",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "summary": "A demo of podOnevlin.",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/LinKeymy/podOnevlin",
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/LinKeymy/podOnevlin.git",
-    "tag": "0.1.0"
+    "tag": "1.0.0"
   },
   "platforms": {
     "ios": "8.0"
@@ -30,13 +30,7 @@
     },
     {
       "name": "Place",
-      "source_files": "podOnevlin/Classes/Place/**/*",
-      "subspecs": [
-        {
-          "name": "Cool",
-          "source_files": "podOnevlin/Classes/Place/Cool/**/*"
-        }
-      ]
+      "source_files": "podOnevlin/Classes/Place/**/*"
     }
   ]
 }
