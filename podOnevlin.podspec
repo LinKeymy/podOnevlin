@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'podOnevlin'
-  s.version          = '1.3.0'
+  s.version          = '1.4.0'
   s.summary          = 'A demo of podOnevlin.'
 
   s.description      = <<-DESC
@@ -25,23 +25,23 @@ TODO: Add long description of the pod here.
   s.ios.deployment_target = '8.0'
 
   s.source_files = 'podOnevlin/Classes/**/*.swift'
-s.subspec 'Alert' do |commonTools|
+  s.subspec 'Alert' do |commonTools|
     commonTools.source_files = 'podOnevlin/Classes/Alert/**/*.swift'
-end
+  end
 
-s.subspec 'Replace' do |replace|
+  s.subspec 'Replace' do |replace|
     replace.source_files = 'podOnevlin/Classes/Replace/**/*.swift'
     replace.subspec 'Inreplace' do |inreplace|
-        inreplace.source_files = 'podOnevlin/Classes/Replace/Inreplace/**/*.swift'
+        inreplace.source_files = 'podOnevlin/Classes/Replace/Inreplace/*.swift'
     end
-end
+  end
 
-s.subspec 'Place' do |place|
+  s.subspec 'Place' do |place|
     place.source_files = 'podOnevlin/Classes/Place/**/*.swift'
     place.subspec 'Cool' do |cool|
-        cool.source_files = 'podOnevlin/Classes/Place/Cool/**/*.swift'
+        cool.source_files = 'podOnevlin/Classes/Place/Cool/*.swift'
     end
-end
+  end
 
 
   # s.resource_bundles = {

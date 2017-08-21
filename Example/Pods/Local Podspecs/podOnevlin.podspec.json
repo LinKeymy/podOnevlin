@@ -1,6 +1,6 @@
 {
   "name": "podOnevlin",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "summary": "A demo of podOnevlin.",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/LinKeymy/podOnevlin",
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/LinKeymy/podOnevlin.git",
-    "tag": "1.3.0"
+    "tag": "1.4.0"
   },
   "platforms": {
     "ios": "8.0"
@@ -30,7 +30,7 @@
       "subspecs": [
         {
           "name": "Inreplace",
-          "source_files": "podOnevlin/Classes/Replace/Inreplace/**/*.swift"
+          "source_files": "podOnevlin/Classes/Replace/Inreplace/*.swift"
         }
       ]
     },
@@ -40,7 +40,7 @@
       "subspecs": [
         {
           "name": "Cool",
-          "source_files": "podOnevlin/Classes/Place/Cool/**/*.swift"
+          "source_files": "podOnevlin/Classes/Place/Cool/*.swift"
         }
       ]
     }
