@@ -31,7 +31,7 @@ end
 
 s.subspec 'Replace' do |replace|
     replace.source_files = 'podOnevlin/Classes/Replace/**/*'
-    s.subspec 'Inreplace' do |inreplace|
+    replace.subspec 'Inreplace' do |inreplace|
         inreplace.source_files = 'podOnevlin/Classes/Replace/Inreplace/**/*'
     end
 end
