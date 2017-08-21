@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'podOnevlin'
-  s.version          = '1.0.0'
+  s.version          = '1.1.0'
   s.summary          = 'A demo of podOnevlin.'
 
   s.description      = <<-DESC
@@ -30,11 +30,17 @@ s.subspec 'Alert' do |commonTools|
 end
 
 s.subspec 'Replace' do |replace|
-replace.source_files = 'podOnevlin/Classes/Replace/**/*'
+    replace.source_files = 'podOnevlin/Classes/Replace/**/*'
+    s.subspec 'Inreplace' do |inreplace|
+        inreplace.source_files = 'podOnevlin/Classes/Replace/Inreplace/**/*'
+    end
 end
 
 s.subspec 'Place' do |place|
     place.source_files = 'podOnevlin/Classes/Place/**/*'
+    place.subspec 'Cool' do |cool|
+        cool.source_files = 'podOnevlin/Classes/Place/Cool/**/*'
+    end
 end
 
 

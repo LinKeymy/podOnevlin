@@ -1,11 +1,15 @@
 PODS:
-  - podOnevlin (1.0.0):
-    - podOnevlin/Alert (= 1.0.0)
-    - podOnevlin/Place (= 1.0.0)
-    - podOnevlin/Replace (= 1.0.0)
-  - podOnevlin/Alert (1.0.0)
-  - podOnevlin/Place (1.0.0)
-  - podOnevlin/Replace (1.0.0)
+  - podOnevlin (1.1.0):
+    - podOnevlin/Alert (= 1.1.0)
+    - podOnevlin/Inreplace (= 1.1.0)
+    - podOnevlin/Place (= 1.1.0)
+    - podOnevlin/Replace (= 1.1.0)
+  - podOnevlin/Alert (1.1.0)
+  - podOnevlin/Inreplace (1.1.0)
+  - podOnevlin/Place (1.1.0):
+    - podOnevlin/Place/Cool (= 1.1.0)
+  - podOnevlin/Place/Cool (1.1.0)
+  - podOnevlin/Replace (1.1.0)
 
 DEPENDENCIES:
   - podOnevlin (from `~/Desktop/learnPod/podOnevlin/podOnevlin.podspec`)
@@ -15,7 +19,7 @@ EXTERNAL SOURCES:
     :path: ~/Desktop/learnPod/podOnevlin/podOnevlin.podspec
 
 SPEC CHECKSUMS:
-  podOnevlin: 88f8f1276feb0f39f9e435d2388e912303fc29db
+  podOnevlin: 45d8707974e17aa9c874809f5f9599567f245466
 
 PODFILE CHECKSUM: f7dbe5f2e4677819bbdb426e2b74af44bd83a32a
 
